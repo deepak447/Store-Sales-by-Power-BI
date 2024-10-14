@@ -1,8 +1,9 @@
-# Store-Sales-by-Power-BI
+# Super Mart Store Sales Dashboard - Power BI Project
 
 ![Screenshot 2024-10-14 130846](https://github.com/user-attachments/assets/2a1355ae-ec84-4233-b0ac-78d542eeb769)
 
-# Super Mart Store Sales Dashboard - Power BI Project
+![Screenshot 2024-10-14 130933](https://github.com/user-attachments/assets/53430cec-d407-4ac4-95c0-acb392523574)
+
 
 This repository contains a Power BI dashboard visualizing sales data for a fictional Super Mart store. The dashboard provides insights into key performance indicators (KPIs) across various dimensions, including sales by region, product category, payment method, shipping mode, and more.
 
